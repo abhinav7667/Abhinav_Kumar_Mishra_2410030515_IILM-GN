@@ -1,4 +1,5 @@
 ### EXP-1 – Basic DDL, DML, and Simple Queries
+
 - **Q1. Create `Employee_master` from `EMPLOYEE`**
 
 ```sql
@@ -25,7 +26,7 @@
   SELECT * FROM Employee_master;
   ```
 
-- **Q5. Increase salary by 10% for department 20 in `Employee_master`**
+- **Q5. Increase salary by 10% for department `20` in `Employee_master`**
 
   ```sql
   UPDATE Employee_master
